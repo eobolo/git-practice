@@ -13,9 +13,4 @@ this should be clone in the directory you enter by default as you open the sandb
 8. git commit -m "first commit"  -then this next
 9. git push --set-upstream origin <your own branch>
 10. git push -u origin <your own branch>
-once you have done this all send an email to me that you have done it my email is e.obolo@alustudent.com, then I would do some stuffs then like after 2minutes, do this command
-11. git branch
-then if you see your branch and another branch either called master or main
-12. git checkout master or git checkout main
-13. git pull
-and that is all.
+once you have done this all send an email to me that you have done it my email is e.obolo@alustudent.com
